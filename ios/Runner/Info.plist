@@ -45,5 +45,17 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Pick your favorite place image.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Take your favorite place image.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Application request acces to your microphone</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Application request acces to your location</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Application request acces to your location</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Application request acces to your location</string>
 </dict>
 </plist>
